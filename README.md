@@ -1,0 +1,1 @@
+# Eclipse Che Plugin SVN assembly
